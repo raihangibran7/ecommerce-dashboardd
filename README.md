@@ -114,4 +114,4 @@ Hasil analisis disajikan dalam dua bentuk output:
 - Cara mengimplementasikan analisis RFM dari nol dan menginterpretasikan hasilnya untuk kebutuhan bisnis
 - Cara membangun dashboard interaktif berbasis Streamlit dengan filter tanggal yang terhubung langsung ke seluruh visualisasi
 
-*Project ini merupakan bagian dari portofolio Data Analyst. Lihat project lainnya di [GitHub Profile](https://github.com/).*
+*Project ini merupakan bagian dari portofolio Data Analyst. Lihat project lainnya di [GitHub Profile](https://github.com/raihangibran7).*
