@@ -3,7 +3,8 @@
 > Data Wrangling · EDA · RFM Analysis · Streamlit Dashboard | Project analisis data end-to-end untuk menjawab pertanyaan: **"Produk apa yang paling menguntungkan, dan siapa pelanggan terbaik Olist Store?"**
 
 <img src="Dashboard Screenshot.png" alt="RFM Analysis Dashboard" width="1000">
-
+*Dashboard bisa diakses di
+[Streamlit Public](https://ecommerce-dashboardd.streamlit.app/)
 ## 📌 Latar Belakang
 
 Olist Store adalah platform e-commerce asal Brasil yang menghubungkan ribuan merchant dengan jutaan pelanggan. Dataset publik yang tersedia terdiri dari 8 tabel relasional yang mencakup informasi pesanan, produk, pelanggan, hingga ulasan.
